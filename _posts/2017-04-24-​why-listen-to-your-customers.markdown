@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "​Why listen to your customers?"
-date:   2017-04-24 20:14:54 +0100
+title: "​Why listen to your customers?"
+date: 2017-04-24 20:14:54 +0100
 ---
 Think of three people in your life that appreciate and value you.
 

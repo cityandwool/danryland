@@ -1,0 +1,27 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+          <li>
+            <a href="https://www.youtube.com/channel/UC-juA1PYRWYqD7Dym65g4HQ">
+              <span class="username">YouTube</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
