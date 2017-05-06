@@ -8,7 +8,7 @@ excerpt: A vision can be the driving force of a business strategy.
 _'Where there is no vision, there is no hope'_
 George Washington Carver
 
-It makes you think doesn't it.
+It makes you think doesn't it?
 
 What's your vision?
 
@@ -42,7 +42,7 @@ Your vision will be unique to you. It will also change over time.
 
 ## 1. Set your vision ##
 
-Take time to mediate on what your good at. What do you want to achieve?
+Take time to mediate on what you're good at. What do you want to achieve?
 
 Write it down.
 
@@ -72,6 +72,6 @@ Have those changes to simplify helped you towards achieving your goal?
 
 Has your vision changed? If so, it's ok. Write down your new vision.
 
-Repeating this process can help you priorities your vision.
+Repeating this process can help you prioritise your vision.
 
 How have you changed things in your life to increase your drive?
