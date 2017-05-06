@@ -40,7 +40,7 @@ _To inspire and support entrepreneurs at all levels. Through mentorship and coll
 
 Your vision will be unique to you. It will also change over time.
 
-** 1. Set your vision **
+## 1. Set your vision ##
 
 Take time to mediate on what your good at. What do you want to achieve?
 
@@ -48,13 +48,13 @@ Write it down.
 
 Consider sharing it with close friends to get their feedback on it.
 
-** 2. Measure all your activities against it **
+## 2. Measure all your activities against it ##
 
 Achieving your vision requires time and energy.
 
 To increase time and energy consider simplifying your life around your vision.
 
-Write down all the things you do in life: job, friendships, socials, sports, etc.
+Write down all the things you do in life: job, friendships, social life, sports, etc.
 
 One by one, assess whether that item needs simplifying or changing.
 
@@ -64,7 +64,7 @@ It could mean saying 'No'.
 
 But it could also mean saying 'Yes' to things that compliment your vision.
 
-** 3. Regularly refine your vision **
+## 3. Regularly refine your vision ##
 
 Plan in times to review your vision.
 
@@ -74,4 +74,4 @@ Has your vision changed? If so, it's ok. Write down your new vision.
 
 Repeating this process can help you priorities your vision.
 
-How have you changed things in your life to increase your dive?
+How have you changed things in your life to increase your drive?
