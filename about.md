@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+menu: main
 permalink: /about/
 ---
 ![Dan Ryland](/assets/img/dan-ryland.jpg)

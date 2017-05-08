@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: User Experience Developer
 ---
 
 I write, speak and design to inspire and support entrepreneurs at all levels.

@@ -42,7 +42,7 @@ Your vision will be unique to you. It will also change over time.
 
 ## 1. Set your vision ##
 
-Take time to mediate on what you're good at. What do you want to achieve?
+Take time to meditate on what you're good at. What do you want to achieve?
 
 Write it down.
 
