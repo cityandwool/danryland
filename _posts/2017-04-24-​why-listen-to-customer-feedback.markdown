@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "​Why listen to customer feedback?"
+title: "Why listen to customer feedback?"
 date: 2017-04-24 20:14:54 +0100
 excerpt: Utilising customer feedback can lead to an increase of customer satisfaction because your customer should feel valued.
 ---
@@ -58,6 +58,8 @@ Using your data, craft better solutions and implement quickly. This will show yo
 
 ## 3. Keep going back to your customers for more ##
 Keep listening, watching and asking to see how your improvements are performing. Whether they're having a positive impact on your user engagement, increase conversions or customer satisfaction.
+
+So those three key points in getting your customers to love your product: start collecting feedback, implement your improvements often and keep listening. Repeat.
 
 How often do you listen, watch or ask your customers about their experiences with your product?
 
