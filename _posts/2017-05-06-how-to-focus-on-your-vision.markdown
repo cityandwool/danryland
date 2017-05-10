@@ -74,4 +74,8 @@ Has your vision changed? If so, it's ok. Write down your new vision.
 
 Repeating this process can help you prioritise your vision.
 
-How have you changed things in your life to increase your drive?
+The talk of 'vision' hopefully isn't so daunting now.
+
+Set your vision. Measure against it. Refine it often. Circulating these three points will help focus your time, energy and efforts - they're all valuable.
+
+So how has setting a vision increased your dive and focus?
