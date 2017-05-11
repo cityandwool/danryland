@@ -16,13 +16,22 @@
 title: Dan Ryland
 description: > # this means to ignore newlines until "baseurl:"
   To inspire and support entrepreneurs at all levels.
-  Through mentorship and collaboration to develop strategies to solve business problems.
-  Practical solutions acrosss content, design and development.
+  Through mentorship and collaboration to develop practical solutions acrosss content, design and development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danryland.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: realdanryland
 
 permalink: /:title
+
+disqus:
+  shortname: danryland-ux
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
 
 # Build settings
 markdown: kramdown

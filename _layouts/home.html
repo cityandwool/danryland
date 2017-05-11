@@ -4,15 +4,17 @@ layout: default
 
 <div class="home">
 
-  <h1>I'm a user experience developer</h1>
+  <h1>Hi, I'm Dan Ryland.<br>I write about creating great user experience (UX), web design &amp business strategy.</h1>
 
   {{ content }}
+
+  <br>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ forloop.index }}. {{ post.title | escape }}</a>
         </h2>
       </li>
     {% endfor %}
