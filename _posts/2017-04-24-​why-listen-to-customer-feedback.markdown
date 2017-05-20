@@ -54,6 +54,10 @@ I'm sure we've all been asked that question at a supermarket or a shop.
 
 Surveys and pools can show if your helping your customers achieve their goals. It can [improve customer satisfaction](https://www.surveymonkey.com/mp/csat/).
 
+![Customer feedback infographic by Dan Ryland](/assets/img/customer-feedback-infographic-dan-ryland.jpg)
+
+[More facts, quotes and statistics](https://www.helpscout.net/75-customer-service-facts-quotes-statistics/)
+
 ## 2. Iterate often to implement customer feedback ##
 Using your data, craft better solutions and implement quickly. This will show your customers that you do care.
 
