@@ -16,8 +16,8 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ forloop.index }}. {{ post.title | escape }}</a>
         </h2>
-        <p>{{ post.content | truncatewords:50 | strip_html }}</p>
-        <p><a href="{{ post.url | relative_url }}">Read more about <em>{{ post.title | escape }}</em></a></p>
+        <p>{{ post.excerpt | strip_html }}</p>
+        <p><a href="{{ post.url | relative_url }}">Read more about <em>{{ post.title | escape }}</em>...</a></p>
       </li>
     {% endfor %}
   </ul>
