@@ -66,6 +66,8 @@ It could mean saying 'No'.
 
 But it could also mean saying 'Yes' to things that compliment your vision.
 
+![Focus on your vision by Dan Ryland](/assets/img/focus-on-your-vision-dan-ryland.jpg)
+
 ## 3. Regularly refine your vision ##
 
 Plan in times to review your vision.
