@@ -23,7 +23,7 @@ Following these simple steps to optimise your YouTube videos could see your reve
 
 So here we go:
 
-## Get the YouTube Creator Studio app ##
+## 1. Get the YouTube Creator Studio app ##
 
 Whether you have an [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator&referrer=utm_source%3Dyoutube_hc) or an [iPhone](https://itunes.apple.com/us/app/apple-store/id888530356?pt=9008&ct=youtube_hc&mt=8), consider downloading the YouTube Creator Studio app.
 
@@ -31,7 +31,7 @@ It's filled with useful data, graphs and helpful analysis on all of your videos.
 
 The Creator app will help track the effectiveness of your changes in increasing your views.
 
-## Experiment with some keyword research ##
+## 2. Experiment with keyword research ##
 
 Under the 'Audience' tab within your Creator app, you'll be able to see which countries view your videos the most.
 
@@ -62,7 +62,7 @@ Although we decided to go for 'Nigerian wedding', 'Black wedding' from a purely 
 
 You could even go one step further and look at [search term variations](https://trends.google.co.uk/trends/explore?date=today%2012-m&geo=US&gprop=youtube&q=white%20guy,white%20man,white%20boy) for white guy, white man and white boy.
 
-## Add keywords to your video ##
+## 3. Add keywords to your video ##
 
 As a YouTube veteran, you will have heard of the 'boyfriend tag' - an introduction to someone's relationship through [stories that the boyfriend tells](https://www.youtube.com/watch?v=pSKcp4dRT54).
 
@@ -74,7 +74,7 @@ In publishing your _boyfriend tag_, you want to focus on those exact keywords. Y
 
 You can again use Google Trends to help you discover related queries. I'd suggest adding some of these into your bank of keywords.
 
-## Create a great thumbnail ##
+## 4. Create a great thumbnail ##
 
 Once you've got your content optimised, you'll then need to think about your thumbnail design.
 
@@ -86,7 +86,7 @@ Consider adding some sort of frame to again make the content of your thumbnail s
 
 ![YouTube thumbnail design](/assets/img/youtube-thumbnail-design-dan-ryland.png)
 
-## Review search terms ##
+## 5. Review search terms ##
 
 Once your video has been public for some time, you'll start to see how well it's performing.
 
