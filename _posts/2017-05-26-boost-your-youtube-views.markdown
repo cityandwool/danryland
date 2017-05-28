@@ -2,7 +2,7 @@
 layout: post
 title: "5 step guide to boosting your YouTube views"
 date: 2017-05-26 20:30:00 +0100
-excerpt: Increase your YouTube views and passive income by using analysing your analytics and applying keyword research to your videos.
+excerpt: Increase your YouTube views and passive income by analysing your analytics and applying keyword research to your videos.
 author: Dan Ryland
 ---
 YouTube could become your best passive income generator.
@@ -27,9 +27,9 @@ So here we go:
 
 Whether you have an [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator&referrer=utm_source%3Dyoutube_hc) or an [iPhone](https://itunes.apple.com/us/app/apple-store/id888530356?pt=9008&ct=youtube_hc&mt=8), consider downloading the YouTube Creator Studio app.
 
-It's filled with useful data, graphs and helpful anaylsis on all of your videos.
+It's filled with useful data, graphs and helpful analysis on all of your videos.
 
-The Creator app will help track the effectivness of your changes in increasing your views.
+The Creator app will help track the effectiveness of your changes in increasing your views.
 
 ## Experiment with some keyword research ##
 
@@ -58,9 +58,9 @@ Here's some YouTube search data for the following key phrases:
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1015_RC10/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"black wedding","geo":"GB","time":"today 12-m"},{"keyword":"african wedding","geo":"GB","time":"today 12-m"},{"keyword":"nigerian wedding","geo":"GB","time":"today 12-m"}],"category":0,"property":"youtube"}, {"exploreQuery":"date=today%2012-m&geo=GB&gprop=youtube&q=black%20wedding,african%20wedding,nigerian%20wedding","guestPath":"https://trends.google.co.uk:443/trends/embed/"}); </script>
 
-Although we decided to go for 'Nigerian wedding', 'Black wedding' from a purely optimistion perspective could have proven better for natural search discovery.
+Although we decided to go for 'Nigerian wedding', 'Black wedding' from a purely optimisation perspective could have proven better for natural search discovery.
 
-You could even go one step futher and look at [search term variations](https://trends.google.co.uk/trends/explore?date=today%2012-m&geo=US&gprop=youtube&q=white%20guy,white%20man,white%20boy) for white guy, white man and white boy.
+You could even go one step further and look at [search term variations](https://trends.google.co.uk/trends/explore?date=today%2012-m&geo=US&gprop=youtube&q=white%20guy,white%20man,white%20boy) for white guy, white man and white boy.
 
 ## Add keywords to your video ##
 
@@ -82,7 +82,7 @@ Two things I've experimented with recently:
 
 Try to disrupt the visual flow of the search results. Do this by adding more whitespace or changing the shape of your thumbnail.
 
-Consider adding some sort of frame to again make the content of your thumbnail stand out agaisnt other videos.
+Consider adding some sort of frame to again make the content of your thumbnail stand out against other videos.
 
 ![YouTube thumbnail design](/assets/img/youtube-thumbnail-design-dan-ryland.png)
 
