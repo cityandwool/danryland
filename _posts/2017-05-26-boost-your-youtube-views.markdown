@@ -94,7 +94,7 @@ Under the 'Discovery' tab within your Creator app, you'll find 'Top YouTube sear
 
 You should consider adding these terms to your video's meta data to make it more discoverable.
 
-To optimise your YouTube video, follow these 5 steps:
+To recap, optimise your YouTube video using these 5 steps:
 
 1. Get the YouTube Creator Studio app
 2. Experiment with some keyword research
