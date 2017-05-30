@@ -5,6 +5,8 @@ date: 2017-05-26 20:30:00 +0100
 excerpt: Increase your YouTube views and passive income by analyzing your analytics and applying keyword research to your videos.
 author: Dan Ryland
 ---
+![Boost your YouTube views](/assets/img/boost-youtube-views-dan-ryland.jpg)
+
 YouTube could become your best passive income generator.
 
 You _know_ you have great videos, you have monetisation enabled and now you're glued to your analytics.
@@ -103,3 +105,5 @@ So to recap, optimise your YouTube video using these 5 steps:
 5. Review search terms
 
 Hope you enjoy seeing those view counts rise.
+
+If you have any tips, share them in the comments below.
