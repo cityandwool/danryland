@@ -13,4 +13,4 @@ I write about creating great user experiences (UX), web design & business strate
 
 Through mentorship and collaboration I develop strategies to solve business problems.
 
-I provide practical solutions acrosss content, design and development.
+I provide practical solutions across content, design and development.

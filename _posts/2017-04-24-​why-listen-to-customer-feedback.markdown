@@ -4,6 +4,8 @@ title: "Why listen to customer feedback?"
 date: 2017-04-24 20:14:54 +0100
 excerpt: Utilising customer feedback can lead to an increase of customer satisfaction because your customer should feel valued.
 author: Dan Ryland
+thumbnail: '/assets/img/customer-feedback.jpg'
+thumbnailAlt: 'Customer feedback'
 ---
 ![Customer feedback](/assets/img/customer-feedback.jpg)
 
@@ -31,7 +33,7 @@ Consider these three steps within your products:
 Use heatmaps, visitor recordings, conversion tunnels and customer surveys. Hotjar is an [great customer feedback tool](https://hotjar.com) and a fantastic place to start.
 
 ### Heatmaps ###
-Heatmaps can help [reveal visitor behaviours](https://www.hotjar.com/heatmaps).
+Heatmaps can help [reveal visitor behaviors](https://www.hotjar.com/heatmaps).
 
 Through a graphical representation of data, heatmaps visually represent clicks, taps and scrolling behavior of your visitors.
 

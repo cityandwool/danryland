@@ -1,0 +1,26 @@
+---
+---
+
+$gutter: 20px;
+$black: #000;
+
+@import "minima";
+
+.card {
+    display: flex;
+}
+.image {
+    flex: 30%;
+    a {
+        padding-top: 7px;
+        display: block;
+        img {
+            display: block;
+        }
+    }
+}
+.content {
+    flex: 70%;
+    padding-left: $gutter;
+}
+
