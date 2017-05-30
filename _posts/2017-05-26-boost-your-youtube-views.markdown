@@ -2,22 +2,22 @@
 layout: post
 title: "5 step guide to boosting your YouTube views"
 date: 2017-05-26 20:30:00 +0100
-excerpt: Increase your YouTube views and passive income by analysing your analytics and applying keyword research to your videos.
+excerpt: Increase your YouTube views and passive income by analyzing your analytics and applying keyword research to your videos.
 author: Dan Ryland
 ---
 YouTube could become your best passive income generator.
 
-You _know_ you have great videos, you have monitisation enabled and now you're glued to your analytics.
+You _know_ you have great videos, you have monetisation enabled and now you're glued to your analytics.
 
-In my case, I'm glued to my fiance's analytics.
+In my case, I'm glued to my fiancé's analytics.
 
 I use all the techniques outline below to optimise her videos.
 
-If you're interested in relationships, fashion or corporate law [you should follow KimaOnline](https://www.youtube.com/user/KimaOnline).
+If you're interested in relationships, fashion or corporate law [Follow KimaOnline](https://www.youtube.com/user/KimaOnline).
 
 _Plug over, I promise._
 
-Also a note of warning before we continue: Patiences is required.
+Also a note of warning before we continue: Patience is required.
 
 Following these simple steps to optimise your YouTube videos could see your revenue increase **over time**.
 
@@ -94,10 +94,10 @@ Under the 'Discovery' tab within your Creator app, you'll find 'Top YouTube sear
 
 You should consider adding these terms to your video's meta data to make it more discoverable.
 
-To recap, optimise your YouTube video using these 5 steps:
+So to recap, optimise your YouTube video using these 5 steps:
 
 1. Get the YouTube Creator Studio app
-2. Experiment with some keyword research
+2. Experiment with keyword research
 3. Add keywords to your video
 4. Create a great thumbnail
 5. Review search terms
