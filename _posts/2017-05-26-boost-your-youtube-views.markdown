@@ -6,6 +6,8 @@ excerpt: Increase your YouTube views and passive income by analyzing your analyt
 author: Dan Ryland
 thumbnail: '/assets/img/boost-youtube-views-dan-ryland.jpg'
 thumbnailAlt: 'Boost your YouTube views'
+image:  '/assets/img/boost-youtube-views-dan-ryland.jpg'
+lang: en_GB
 ---
 ![Boost your YouTube views](/assets/img/boost-youtube-views-dan-ryland.jpg)
 

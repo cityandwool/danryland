@@ -6,6 +6,8 @@ excerpt: A vision can be the driving force of a business strategy.
 author: Dan Ryland
 thumbnail: '/assets/img/finding-your-vision.jpg'
 thumbnailAlt: 'Finding your vision'
+image:  '/assets/img/finding-your-vision.jpg'
+lang: en_GB
 ---
 ![Finding your vision](/assets/img/finding-your-vision.jpg)
 

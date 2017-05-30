@@ -6,6 +6,8 @@ excerpt: Utilising customer feedback can lead to an increase of customer satisfa
 author: Dan Ryland
 thumbnail: '/assets/img/customer-feedback.jpg'
 thumbnailAlt: 'Customer feedback'
+image:  '/assets/img/customer-feedback.jpg'
+lang: en_GB
 ---
 ![Customer feedback](/assets/img/customer-feedback.jpg)
 
