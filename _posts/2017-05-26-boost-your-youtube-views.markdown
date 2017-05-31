@@ -17,7 +17,7 @@ You _know_ you have great videos, you have monetisation enabled and now you're g
 
 In my case, I'm glued to my fiancé's analytics.
 
-I use all the techniques outline below to optimise her videos.
+I use all the techniques outlined below to optimise her videos.
 
 If you're interested in relationships, fashion or corporate law [Follow KimaOnline](https://www.youtube.com/user/KimaOnline).
 
