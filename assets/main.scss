@@ -50,7 +50,7 @@ a, a:visited, a:hover {
     }
     label {
         color: #34495e;
-        .home {
+        .home & {
             display: none !important;
         }
     }
