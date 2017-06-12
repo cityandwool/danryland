@@ -24,3 +24,49 @@ $black: #000;
     padding-left: $gutter;
 }
 
+.text-centered {
+    text-align: center;
+}
+
+.sub {
+    display: block;
+    font-size: 20px;
+}
+
+a, a:visited, a:hover {
+    color: #2980b9;
+}
+
+#mc_embed_signup {
+    background: rgba(26, 188, 156,.1);
+    clear: left;
+    font: 14px Helvetica,Arial,sans-serif;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 5px;
+    form {
+        border: 1px dashed #1abc9c;
+        padding: 20px !important;
+    }
+    label {
+        color: #34495e;
+        .home {
+            display: none !important;
+        }
+    }
+    .button {
+        background: #1abc9c !important;
+        &:hover {
+            background: #16a085 !important;
+        }
+    }
+}
+
+.margin-bottom {
+    margin-bottom: $gutter;
+    overflow: hidden;
+}
+
+iframe {
+    margin-bottom: $gutter;
+}

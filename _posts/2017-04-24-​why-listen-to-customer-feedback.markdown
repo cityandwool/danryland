@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why listen to customer feedback?"
+title: "Why Listen To Customer Feedback?"
 date: 2017-04-24 20:14:54 +0100
 excerpt: Utilising customer feedback can lead to an increase of customer satisfaction because your customer should feel valued.
 author: Dan Ryland

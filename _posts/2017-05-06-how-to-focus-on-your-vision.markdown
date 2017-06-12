@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to focus on your vision"
+title: "How to Focus on Your Vision"
 date: 2017-05-06 14:46:00 +0100
 excerpt: A vision can be the driving force of a business strategy.
 author: Dan Ryland
