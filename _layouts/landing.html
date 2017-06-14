@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="text-centered">{{ page.title }}</h1>
+
+  <div class="text-centered margin-bottom">
+    {{ content }}
+    <p><a href="https://twitter.com/realdanryland" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @realdanryland</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  </div>
+
+  <h2>Read the most recent post:</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:1 %}
+      <li>
+        <div class="card">
+          <div class="image">
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.thumbnailAlt }}">
+            </a>
+          </div>
+          <div class="content">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+            <p>{{ post.excerpt | strip_html }}</p>
+            <p><a href="{{ post.url | relative_url }}">Continue reading <em>{{ post.title | escape }}</em></a></p>
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
