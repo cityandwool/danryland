@@ -40,7 +40,7 @@ To find out which device category is most popular navigate to:
 
 _Audience > Mobile > Overview_
 
-Let's say your audience is about 60% for mobile, we might then want want to see which counties these users come from. On the same Mobile Overview page, define the secondary dimension as _Country_.
+Now, let's say your audience is about ~60% for mobile, we might then want want to see which counties these users come from. On the same Mobile Overview page, define the secondary dimension as _Country_.
 
 From our list of countries we might find we have lots of international traffic from the States for example. Using this sort of data we could make some assumptions on how to improve the conversion rate for these users. Examples could include:
 
@@ -60,15 +60,18 @@ To find your popular landing pages, navigated to the follow:
 
 _Behaviour > Site Content > Landing Pages_
 
-If you
+I'd suggest focusing your efforts on reviewing the top three pages that you find here. While looking at these pages you'll want to look out for the following:
 
-I'd suggest focusing your efforts on reviewing the top three pages that you find here. While looking at these pages check if your two call to actions are clearly visible.
-​
-The things you'll want to look out for here are:
-Page Speed
-What kind of page speed are you getting?
-Use Google Page Speed tool to help find ways to improve your page speed.
-Marketing content
-Is the content clear
-Is your content clear and focused on getting across your 'why'
-Is there clarity and urgency to your actions?
+### Page Speed ###
+
+What kind of page speed are you getting? Use Google Page Speed tool to help find ways to improve your page speed.
+
+### Content Marketing ###
+
+Is the content clear? Is your content clear and easy to understand? Is there clarity and urgency to your actions?
+
+## 4. Using your data, implement improvements ##
+
+Now that we have goals define and we know more information about our users, we can find the problem areas and craft solutions to improve your conversion rate. Adding tools like HotJar to help with heatmaps, user recordings and funnels can also help us see what could be holding users back from registering or donating.
+
+If you're interested, you can [read more about the best tools for improving user feedback](https://danryland.co.uk/why-listen-to-customer-feedback). I'd also be great to hear how you use your Google Analytics data to increase your conversion rates.
