@@ -37,6 +37,8 @@ To find out which device category is most popular navigate to:
 
 _Audience > Mobile > Overview_
 
+![Google Analytics Mobile Overview](/assets/img/google-analytics-devices-dan-ryland.png){:height="500px" style="display: block; margin: 0px auto"}
+
 Now, let's say your audience is about ~60% for mobile, we might then want want to see which counties these users come from. On the same _Mobile Overview_ page, define a secondary dimension as _Country_.
 
 From our list of countries we might find we have lots of international traffic from the States for example. Using this sort of data we can make some assumptions on how to improve the conversion rate for these users. Examples could include:
@@ -56,6 +58,8 @@ After looking at who your users you're getting, you might want to look these:
 To find your popular landing pages, navigated to the follow:
 
 _Behaviour > Site Content > Landing Pages_
+
+![Google Analytics Landing Pages](/assets/img/google-analytics-landing-pages-dan-ryland.png){:height="500px" style="display: block; margin: 0px auto"}
 
 I'd suggest focusing your efforts on reviewing the top three pages that you find here. While looking at these pages you'll want to look out for the following:
 
