@@ -6,4 +6,4 @@ layout: home
 title: User Experience (UX), Web Design & Business Strategy
 ---
 
-[Follow me on Twitter](https://twitter.com/realdanryland) and [watch my videos on Youtube](https://www.youtube.com/channel/UC-juA1PYRWYqD7Dym65g4HQ).
+[Follow me on Twitter](https://twitter.com/realdanryland) and [watch my videos on YouTube](https://www.youtube.com/channel/UC-juA1PYRWYqD7Dym65g4HQ).
