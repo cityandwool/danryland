@@ -35,9 +35,9 @@ Consider these three steps within your products:
 Use heatmaps, visitor recordings, conversion tunnels and customer surveys. Hotjar is an [great customer feedback tool](https://hotjar.com) and a fantastic place to start.
 
 ### Heatmaps ###
-Heatmaps can help [reveal visitor behaviors](https://www.hotjar.com/heatmaps).
+Heatmaps can help [reveal visitor behaviours](https://www.hotjar.com/heatmaps).
 
-Through a graphical representation of data, heatmaps visually represent clicks, taps and scrolling behavior of your visitors.
+Through a graphical representation of data, heatmaps visually represent clicks, taps and scrolling behaviour of your visitors.
 
 ### Visitor recordings ###
 This eliminates the guesswork.
