@@ -11,7 +11,7 @@ lang: en_GB
 ---
 ![Starting your YouTube channel](/assets/img/how-to-start-a-youtube-channel-dan-ryland.jpg)
 
-Reading and writing blogs can broadening perspective and strengthening your writing skills.
+Reading and writing blogs can broaden perspective and strengthen your writing skills.
 
 At University we were all encouraged to document our critical thinking and creative process by blogging. We'd consistently add to our [personal blog](http://cityandwool.blogspot.co.uk/) over the three years of study.
 
@@ -21,7 +21,7 @@ I started to simply recording short videos and not edit or cut any of my mistake
 
 Over 10 short videos I saw vast improvements in my confidence and communication.
 
-Now married to a gorgeous [corporate lawyer come vlogger](http://kimaonline.com), I've decided to start vlogging again.
+Now married to a gorgeous [corporate lawyer-come vlogger](http://kimaonline.com), I've decided to start vlogging again.
 
 You can [subscribe to my YouTube channel](https://www.youtube.com/channel/UC-juA1PYRWYqD7Dym65g4HQ) to watch my videos. Here's my first:
 
@@ -43,7 +43,7 @@ I'll also keep adding to this list as an encouragement to others who are thinkin
 
 ### 1. Become a better communicator and story teller ###
 
-Vlogging has increased my confidence in-front of a camera.
+Vlogging has increased my confidence in front of a camera.
 
 It's helped to unite my thinking with my speaking so there are less 'umming' and 'aring'.
 
@@ -51,9 +51,9 @@ It's helped to unite my thinking with my speaking so there are less 'umming' and
 
 Video content in my opinion is more engaging than written content.
 
-It also increases time spend on your site or page as users are more likely to watch a video rather than read a long post.
+It also increases time spent on your site or page as users are more likely to watch a video rather than read a long post.
 
-### 3. Connect with your audience and gets your personality across ###
+### 3. Connect with your audience and get your personality across ###
 
 I'm now contributing to the YouTube community. I'm sharing more about myself, my personality and my life.
 
@@ -63,10 +63,10 @@ I'm learning new skills in video editing and video marketing.
 
 I'm currently just using iMove to edit and some search engine optimisation (SEO) tips to craft optimising video content.
 
-Read my (tips to boost your YouTube views.)[https://danryland.co.uk/boost-your-youtube-views]
+Read my [tips to boost your YouTube views.](https://danryland.co.uk/boost-your-youtube-views)
 
 --
 
-I'd like to here your tips on vlogging, so feel free to share them in the comments below.
+I'd like to hear your tips on vlogging, so feel free to share them in the comments below.
 
 [Subscribe to my Youtube channel](https://www.youtube.com/channel/UC-juA1PYRWYqD7Dym65g4HQ) and continue to shine bright like a Ryland.
