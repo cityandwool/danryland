@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 Step Guide to Boosting Your YouTube Views"
+title: "5 Step Guide To Boosting Your YouTube Views"
 date: 2017-05-26 20:30:00 +0100
 excerpt: Increase your YouTube views and passive income by analyzing your analytics and applying keyword research to your videos.
 author: Dan Ryland
